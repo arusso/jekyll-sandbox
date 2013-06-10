@@ -1,2 +1,4 @@
 name: ~arusso/
 pygments: true
+destination: ./_site
+source: .
